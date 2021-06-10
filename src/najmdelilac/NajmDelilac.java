@@ -15,7 +15,8 @@ public class NajmDelilac {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+         System.out.println("The divisors of 24 are: ");
+         printDivisors(24);
     }
     
 }
