@@ -11,6 +11,12 @@ package najmdelilac;
  * @author admin
  */
 public class NajmDelilac {
+    
+     /**
+      * funkcija printDivisors
+     * @param args int
+     * return print
+     */
     static void printDivisors(int n)
     {
         for (int i=1;i<=n;i++)
